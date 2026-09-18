@@ -1,0 +1,6 @@
+{
+  "name": "Generador de Códigos QR",
+  "description": "GENERADOR DE CODIGOS QR GRATUITO. Herramienta web desarrollada por Mg. Lic. Prof. Leandro Guerschberg - Profesor de informatica - DCSyD - PUEF - BIO - UNPAZ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
